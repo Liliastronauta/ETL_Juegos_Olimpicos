@@ -1,0 +1,241 @@
+Abreviatura,Pais,Oro,Plata,Bronce,Total,Año,Ciudad
+NOR,Norway,14,14,11,39,2018,pyeongchang
+CAN,Canada,11,8,10,29,2018,pyeongchang
+USA,United States of America,9,8,6,23,2018,pyeongchang
+KOR,Republic of Korea,5,8,4,17,2018,pyeongchang
+FRA,France,5,4,6,15,2018,pyeongchang
+AUT,Austria,5,3,6,14,2018,pyeongchang
+JPN,Japan,4,5,4,13,2018,pyeongchang
+ITA,Italy,3,2,5,10,2018,pyeongchang
+RUS,Russian Federation,11,9,9,29,2014,sochi
+NOR,Norway,11,5,10,26,2014,sochi
+CAN,Canada,10,10,5,25,2014,sochi
+USA,United States of America,9,9,10,28,2014,sochi
+AUT,Austria,4,8,5,17,2014,sochi
+FRA,France,4,4,7,15,2014,sochi
+KOR,Republic of Korea,3,3,2,8,2014,sochi
+JPN,Japan,1,4,3,8,2014,sochi
+ITA,Italy,0,2,6,8,2014,sochi
+RUS,Russian Federation,11,9,9,29,2014,sochi
+NOR,Norway,11,5,10,26,2014,sochi
+CAN,Canada,10,10,5,25,2014,sochi
+USA,United States of America,9,9,10,28,2014,sochi
+AUT,Austria,4,8,5,17,2014,sochi
+FRA,France,4,4,7,15,2014,sochi
+KOR,Republic of Korea,3,3,2,8,2014,sochi
+JPN,Japan,1,4,3,8,2014,sochi
+ITA,Italy,0,2,6,8,2014,sochi
+CAN,Canada,14,7,5,26,2010,vancouver
+USA,United States of America,9,15,13,37,2010,vancouver
+NOR,Norway,9,8,6,23,2010,vancouver
+KOR,Republic of Korea,6,6,2,14,2010,vancouver
+AUT,Austria,4,6,6,16,2010,vancouver
+RUS,Russian Federation,3,5,7,15,2010,vancouver
+FRA,France,2,3,6,11,2010,vancouver
+ITA,Italy,1,1,3,5,2010,vancouver
+JPN,Japan,0,3,2,5,2010,vancouver
+CAN,Canada,14,7,5,26,2010,vancouver
+USA,United States of America,9,15,13,37,2010,vancouver
+NOR,Norway,9,8,6,23,2010,vancouver
+KOR,Republic of Korea,6,6,2,14,2010,vancouver
+AUT,Austria,4,6,6,16,2010,vancouver
+RUS,Russian Federation,3,5,7,15,2010,vancouver
+FRA,France,2,3,6,11,2010,vancouver
+ITA,Italy,1,1,3,5,2010,vancouver
+JPN,Japan,0,3,2,5,2010,vancouver
+USA,United States of America,9,9,7,25,2006,turin
+AUT,Austria,9,7,7,23,2006,turin
+RUS,Russian Federation,8,6,8,22,2006,turin
+CAN,Canada,7,10,7,24,2006,turin
+KOR,Republic of Korea,6,3,2,11,2006,turin
+ITA,Italy,5,0,6,11,2006,turin
+FRA,France,3,2,4,9,2006,turin
+NOR,Norway,2,8,9,19,2006,turin
+JPN,Japan,1,0,0,1,2006,turin
+USA,United States of America,9,9,7,25,2006,turin
+AUT,Austria,9,7,7,23,2006,turin
+RUS,Russian Federation,8,6,8,22,2006,turin
+CAN,Canada,7,10,7,24,2006,turin
+KOR,Republic of Korea,6,3,2,11,2006,turin
+ITA,Italy,5,0,6,11,2006,turin
+FRA,France,3,2,4,9,2006,turin
+NOR,Norway,2,8,9,19,2006,turin
+JPN,Japan,1,0,0,1,2006,turin
+NOR,Norway,13,5,7,25,2002,salt-lake-city
+USA,United States of America,10,13,11,34,2002,salt-lake-city
+CAN,Canada,7,3,7,17,2002,salt-lake-city
+RUS,Russian Federation,5,4,4,13,2002,salt-lake-city
+FRA,France,4,5,2,11,2002,salt-lake-city
+ITA,Italy,4,4,5,13,2002,salt-lake-city
+AUT,Austria,3,4,10,17,2002,salt-lake-city
+KOR,Republic of Korea,2,2,0,4,2002,salt-lake-city
+JPN,Japan,0,1,1,2,2002,salt-lake-city
+NOR,Norway,13,5,7,25,2002,salt-lake-city
+USA,United States of America,10,13,11,34,2002,salt-lake-city
+CAN,Canada,7,3,7,17,2002,salt-lake-city
+RUS,Russian Federation,5,4,4,13,2002,salt-lake-city
+FRA,France,4,5,2,11,2002,salt-lake-city
+ITA,Italy,4,4,5,13,2002,salt-lake-city
+AUT,Austria,3,4,10,17,2002,salt-lake-city
+KOR,Republic of Korea,2,2,0,4,2002,salt-lake-city
+JPN,Japan,0,1,1,2,2002,salt-lake-city
+NOR,Norway,10,10,5,25,1998,nagano
+RUS,Russian Federation,9,6,3,18,1998,nagano
+CAN,Canada,6,5,4,15,1998,nagano
+USA,United States of America,6,3,4,13,1998,nagano
+JPN,Japan,5,1,4,10,1998,nagano
+AUT,Austria,3,5,9,17,1998,nagano
+KOR,Republic of Korea,3,1,2,6,1998,nagano
+ITA,Italy,2,6,2,10,1998,nagano
+FRA,France,2,1,5,8,1998,nagano
+NOR,Norway,10,10,5,25,1998,nagano
+RUS,Russian Federation,9,6,3,18,1998,nagano
+CAN,Canada,6,5,4,15,1998,nagano
+USA,United States of America,6,3,4,13,1998,nagano
+JPN,Japan,5,1,4,10,1998,nagano
+AUT,Austria,3,5,9,17,1998,nagano
+KOR,Republic of Korea,3,1,2,6,1998,nagano
+ITA,Italy,2,6,2,10,1998,nagano
+FRA,France,2,1,5,8,1998,nagano
+RUS,Russian Federation,11,8,4,23,1994,lillehammer
+NOR,Norway,10,11,5,26,1994,lillehammer
+ITA,Italy,7,5,8,20,1994,lillehammer
+USA,United States of America,6,5,2,13,1994,lillehammer
+KOR,Republic of Korea,4,1,1,6,1994,lillehammer
+CAN,Canada,3,6,4,13,1994,lillehammer
+AUT,Austria,2,3,4,9,1994,lillehammer
+JPN,Japan,1,2,2,5,1994,lillehammer
+FRA,France,0,1,4,5,1994,lillehammer
+RUS,Russian Federation,11,8,4,23,1994,lillehammer
+NOR,Norway,10,11,5,26,1994,lillehammer
+ITA,Italy,7,5,8,20,1994,lillehammer
+USA,United States of America,6,5,2,13,1994,lillehammer
+KOR,Republic of Korea,4,1,1,6,1994,lillehammer
+CAN,Canada,3,6,4,13,1994,lillehammer
+AUT,Austria,2,3,4,9,1994,lillehammer
+JPN,Japan,1,2,2,5,1994,lillehammer
+FRA,France,0,1,4,5,1994,lillehammer
+NOR,Norway,9,6,5,20,1992,albertville
+AUT,Austria,6,7,8,21,1992,albertville
+USA,United States of America,5,4,2,11,1992,albertville
+ITA,Italy,4,6,4,14,1992,albertville
+FRA,France,3,5,1,9,1992,albertville
+CAN,Canada,2,3,2,7,1992,albertville
+KOR,Republic of Korea,2,1,1,4,1992,albertville
+JPN,Japan,1,2,4,7,1992,albertville
+NOR,Norway,9,6,5,20,1992,albertville
+AUT,Austria,6,7,8,21,1992,albertville
+USA,United States of America,5,4,2,11,1992,albertville
+ITA,Italy,4,6,4,14,1992,albertville
+FRA,France,3,5,1,9,1992,albertville
+CAN,Canada,2,3,2,7,1992,albertville
+KOR,Republic of Korea,2,1,1,4,1992,albertville
+JPN,Japan,1,2,4,7,1992,albertville
+AUT,Austria,3,5,2,10,1988,calgary
+USA,United States of America,2,1,3,6,1988,calgary
+ITA,Italy,2,1,2,5,1988,calgary
+FRA,France,1,0,1,2,1988,calgary
+NOR,Norway,0,3,2,5,1988,calgary
+CAN,Canada,0,2,3,5,1988,calgary
+YUG,Yugoslavia,0,2,1,3,1988,calgary
+JPN,Japan,0,0,1,1,1988,calgary
+AUT,Austria,3,5,2,10,1988,calgary
+USA,United States of America,2,1,3,6,1988,calgary
+ITA,Italy,2,1,2,5,1988,calgary
+FRA,France,1,0,1,2,1988,calgary
+NOR,Norway,0,3,2,5,1988,calgary
+CAN,Canada,0,2,3,5,1988,calgary
+YUG,Yugoslavia,0,2,1,3,1988,calgary
+JPN,Japan,0,0,1,1,1988,calgary
+USA,United States of America,4,4,0,8,1984,sarajevo
+NOR,Norway,3,2,4,9,1984,sarajevo
+CAN,Canada,2,1,1,4,1984,sarajevo
+ITA,Italy,2,0,0,2,1984,sarajevo
+FRA,France,0,1,2,3,1984,sarajevo
+YUG,Yugoslavia,0,1,0,1,1984,sarajevo
+JPN,Japan,0,1,0,1,1984,sarajevo
+AUT,Austria,0,0,1,1,1984,sarajevo
+USA,United States of America,4,4,0,8,1984,sarajevo
+NOR,Norway,3,2,4,9,1984,sarajevo
+CAN,Canada,2,1,1,4,1984,sarajevo
+ITA,Italy,2,0,0,2,1984,sarajevo
+FRA,France,0,1,2,3,1984,sarajevo
+YUG,Yugoslavia,0,1,0,1,1984,sarajevo
+JPN,Japan,0,1,0,1,1984,sarajevo
+AUT,Austria,0,0,1,1,1984,sarajevo
+USA,United States of America,6,4,2,12,1980,lake-placid
+AUT,Austria,3,2,2,7,1980,lake-placid
+NOR,Norway,1,3,6,10,1980,lake-placid
+ITA,Italy,0,2,0,2,1980,lake-placid
+CAN,Canada,0,1,1,2,1980,lake-placid
+JPN,Japan,0,1,0,1,1980,lake-placid
+FRA,France,0,0,1,1,1980,lake-placid
+USA,United States of America,6,4,2,12,1980,lake-placid
+AUT,Austria,3,2,2,7,1980,lake-placid
+NOR,Norway,1,3,6,10,1980,lake-placid
+ITA,Italy,0,2,0,2,1980,lake-placid
+CAN,Canada,0,1,1,2,1980,lake-placid
+JPN,Japan,0,1,0,1,1980,lake-placid
+FRA,France,0,0,1,1,1980,lake-placid
+USA,United States of America,3,3,4,10,1976,innsbruck
+NOR,Norway,3,3,1,7,1976,innsbruck
+AUT,Austria,2,2,2,6,1976,innsbruck
+ITA,Italy,1,2,1,4,1976,innsbruck
+CAN,Canada,1,1,1,3,1976,innsbruck
+FRA,France,0,0,1,1,1976,innsbruck
+USA,United States of America,3,3,4,10,1976,innsbruck
+NOR,Norway,3,3,1,7,1976,innsbruck
+AUT,Austria,2,2,2,6,1976,innsbruck
+ITA,Italy,1,2,1,4,1976,innsbruck
+CAN,Canada,1,1,1,3,1976,innsbruck
+FRA,France,0,0,1,1,1976,innsbruck
+USA,United States of America,3,2,3,8,1972,sapporo
+NOR,Norway,2,5,5,12,1972,sapporo
+ITA,Italy,2,2,1,5,1972,sapporo
+AUT,Austria,1,2,2,5,1972,sapporo
+JPN,Japan,1,1,1,3,1972,sapporo
+FRA,France,0,1,2,3,1972,sapporo
+CAN,Canada,0,1,0,1,1972,sapporo
+USA,United States of America,3,2,3,8,1972,sapporo
+NOR,Norway,2,5,5,12,1972,sapporo
+ITA,Italy,2,2,1,5,1972,sapporo
+AUT,Austria,1,2,2,5,1972,sapporo
+JPN,Japan,1,1,1,3,1972,sapporo
+FRA,France,0,1,2,3,1972,sapporo
+CAN,Canada,0,1,0,1,1972,sapporo
+NOR,Norway,6,6,2,14,1968,grenoble
+FRA,France,4,3,2,9,1968,grenoble
+ITA,Italy,4,0,0,4,1968,grenoble
+AUT,Austria,3,4,4,11,1968,grenoble
+USA,United States of America,1,5,1,7,1968,grenoble
+CAN,Canada,1,1,1,3,1968,grenoble
+NOR,Norway,6,6,2,14,1968,grenoble
+FRA,France,4,3,2,9,1968,grenoble
+ITA,Italy,4,0,0,4,1968,grenoble
+AUT,Austria,3,4,4,11,1968,grenoble
+USA,United States of America,1,5,1,7,1968,grenoble
+CAN,Canada,1,1,1,3,1968,grenoble
+AUT,Austria,4,5,3,12,1964,innsbruck
+NOR,Norway,3,6,6,15,1964,innsbruck
+FRA,France,3,4,0,7,1964,innsbruck
+USA,United States of America,1,2,4,7,1964,innsbruck
+CAN,Canada,1,1,1,3,1964,innsbruck
+ITA,Italy,0,1,3,4,1964,innsbruck
+AUT,Austria,4,5,3,12,1964,innsbruck
+NOR,Norway,3,6,6,15,1964,innsbruck
+FRA,France,3,4,0,7,1964,innsbruck
+USA,United States of America,1,2,4,7,1964,innsbruck
+CAN,Canada,1,1,1,3,1964,innsbruck
+ITA,Italy,0,1,3,4,1964,innsbruck
+USA,United States of America,3,4,3,10,1960,squaw-valley
+NOR,Norway,3,3,0,6,1960,squaw-valley
+CAN,Canada,2,1,1,4,1960,squaw-valley
+AUT,Austria,1,2,3,6,1960,squaw-valley
+FRA,France,1,0,2,3,1960,squaw-valley
+ITA,Italy,0,0,1,1,1960,squaw-valley
+USA,United States of America,3,4,3,10,1960,squaw-valley
+NOR,Norway,3,3,0,6,1960,squaw-valley
+CAN,Canada,2,1,1,4,1960,squaw-valley
+AUT,Austria,1,2,3,6,1960,squaw-valley
+FRA,France,1,0,2,3,1960,squaw-valley
+ITA,Italy,0,0,1,1,1960,squaw-valley
